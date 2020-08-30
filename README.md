@@ -9,7 +9,7 @@ Aside from programming I'm also interested about:
 -  🎶**Music**: I dabble with Guitar, Drums and Synths from time to time 
 
 ## My Job
-I'm currently co-founder and CTO of Callbell, a collaborative shared inbox for Facebook Messenger and WhatsApp. I'm actively looking for Full-stack Ruby / Golang devs to join our engineering team (**100% full-remote position**), please feel free to contact me if you're interested!
+I'm currently co-founder and CTO of [Callbell][4], a collaborative shared inbox for Facebook Messenger and WhatsApp. I'm actively looking for Full-stack Ruby / Golang devs to join our engineering team (**100% full-remote position**), please feel free to contact me if you're interested!
 
 ## Get in Touch
 
@@ -20,6 +20,7 @@ I'm currently co-founder and CTO of Callbell, a collaborative shared inbox for F
 [1]: https://twitter.com/proudlygeek
 [2]: https://www.linkedin.com/in/gianlucabargelli/
 [3]: https://www.twitch.tv/proudlygeek
+[4]: https://www.callbell.eu
 
 
 
