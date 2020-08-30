@@ -5,7 +5,7 @@ I'm a software developer who's passionate about Ruby on Rails, Elixir and Golang
 Aside from programming I'm also interested about:
 
 -  🕹**Retrogaming**: Super Nintendo, Sega Genesis, Gameboy: you name it! I love playing my favorite games on original hardware!
--  🍕**Pizza**: All types, excluding *Pineapple* pizza. That's 
+-  🍕**Pizza**: All types, excluding *Pineapple pizza*. That's a crime against humanity ✋
 -  🎶**Music**: I dabble with Guitar, Drums and Synths from time to time 
 
 ## My Job
