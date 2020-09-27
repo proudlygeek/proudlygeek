@@ -9,7 +9,7 @@ Aside from programming I'm also interested in:
 -  🎶**Music**: I dabble with guitar, drums and keyboard from time to time 
 
 ### My Job
-I'm currently co-founder and CTO of [Callbell][4], a collaborative shared inbox for Facebook Messenger and WhatsApp. I'm actively looking for Full-stack Ruby / Golang devs to join our engineering team (**100% full-remote position**), feel free to contact me if you're interested!
+I'm currently co-founder and CTO of [Callbell][4], a collaborative shared inbox for Facebook Messenger, WhatsApp and Telegram. I'm actively looking for Full-stack Ruby / Golang devs to join our engineering team (**100% full-remote position**), feel free to contact me if you're interested!
 
 ### Get in Touch
 
