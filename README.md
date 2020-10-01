@@ -6,7 +6,7 @@ Aside from programming I'm also interested in:
 
 -  🕹**Retrogaming**: Super Nintendo, Sega Genesis, Gameboy: you name it! I love playing my favorite games on original hardware!
 -  🍕**Pizza**: All types, excluding *pineapple pizza*. That's a crime against humanity ✋
--  🎶**Music**: I dabble with guitar, drums and keyboard from time to time 
+-  🎶**Music**: I dabble with guitar, drums and keyboards from time to time 
 
 ### My Job
 I'm currently co-founder and CTO of [Callbell][4], a collaborative shared inbox for Facebook Messenger, WhatsApp and Telegram. I'm actively looking for Full-stack Ruby / Golang devs to join our engineering team (**100% full-remote position**), feel free to contact me if you're interested!
