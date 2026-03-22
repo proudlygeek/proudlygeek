@@ -11,12 +11,6 @@ Aside from programming I'm also interested in:
 ### My Job
 I'm currently co-founder and CTO of [Callbell][4], a collaborative shared inbox for Facebook Messenger, WhatsApp and Telegram. I'm actively looking for Full-stack Ruby / Golang devs to join our engineering team (**100% full-remote position**), feel free to contact me if you're interested!
 
-### Get in Touch
-
--  [Twitter][1]
--  [LinkedIn][2]
--  [Twitch][3]
-
 [1]: https://twitter.com/proudlygeek
 [2]: https://www.linkedin.com/in/gianlucabargelli/
 [3]: https://www.twitch.tv/proudlygeek
